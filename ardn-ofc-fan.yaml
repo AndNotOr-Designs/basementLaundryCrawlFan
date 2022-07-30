@@ -16,10 +16,10 @@ logger:
 # Enable Home Assistant API
 api:
   encryption:
-    key: "lwSAaCiyP/asV9JUZ0iXczOVE43Mrk2FKQOM9cSSd9g="
+    key: "###for public presentation###"
 
 ota:
-  password: "44e314dbed778b6844c6160e103479eb"
+  password: "###for public presentation###"
 
 wifi:
   ssid: !secret wifi_ssid
@@ -27,8 +27,8 @@ wifi:
 
   # Enable fallback hotspot (captive portal) in case wifi connection fails
   ap:
-    ssid: "Ardn-Ofc-Fan Fallback Hotspot"
-    password: "Q5l40Zvao6Fd"
+    ssid: "###for public presentation###"
+    password: "###for public presentation###"
 
 captive_portal:
     
