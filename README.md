@@ -1,5 +1,5 @@
 # basementLaundryCrawlFan
-    - v 0.01
+    - v 1.01
     
 # purpose
     - create a fan to bring in cool air from crawl space under laundry
