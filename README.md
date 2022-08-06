@@ -14,3 +14,7 @@
     - had issues with ESP32-CAM which I really wanted to use, but it never stayed online 
         so I switched to the DoIt V1 module.
 
+# Version History
+    -1.02
+        - added line 43: restore_mode: ALWAYS_OFF as the fan was regularly turning back on
+

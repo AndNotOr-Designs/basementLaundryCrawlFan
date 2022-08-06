@@ -40,4 +40,5 @@ output:
 fan:
   - platform: binary
     output: fanControl
+    restore_mode: ALWAYS_OFF
     name: "Office Crawl Space Fan"
